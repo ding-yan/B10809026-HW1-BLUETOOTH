@@ -1,0 +1,2 @@
+rootProject.name = "B10809026-HW1-BLUETOOTH"
+include ':app'
